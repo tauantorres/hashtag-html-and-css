@@ -1,0 +1,43 @@
+/* Tags - IDs - Classes  */
+
+/* Tags */
+h1 {
+    color: orange;
+    font-size: 45px;
+}
+
+p {
+    font-size: 15px;
+}
+
+/* IDs */
+
+#first, 
+#second,
+#third {
+    font-size: 25px;
+}
+
+
+/* Classes */
+
+.paragraph {
+    color: blue;
+    font-size: 30px;
+}
+
+/* Multiple Tags */
+p span {
+    color: red;
+}
+
+/* Tag and Class: It has the class and the it is the tag */
+span.span-text {
+    color: green;
+}
+
+/* Tag and Class: It has de class and it is inside of the tag */
+
+span .span-text {
+    color: purple;
+}
